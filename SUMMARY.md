@@ -1,5 +1,7 @@
 # Tibetan Oral History Project  
 
+* [About the Collection](ABOUT.md)
+* [License Disclaimer](LICENSE.md)
 * [Oral history interview of Setrong Wangye](H_0000/README.md)  
     * [H_0000_01](H_0000/H_0000_01.md)  
     * [H_0000_02](H_0000/H_0000_02.md)  
@@ -645,3 +647,4 @@
     * [H_0433_02](H_0433/H_0433_02.md)  
     * [H_0433_03](H_0433/H_0433_03.md)  
     * [H_0433_04](H_0433/H_0433_04.md)  
+* [Glossary](GLOSSARY.md)
