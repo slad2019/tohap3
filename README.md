@@ -6,7 +6,7 @@ As of April 2019, the portion of the TOHAP Collection that is available on line 
 
 These interviews were collected by Professor Melvyn C. Goldstein and his assistants/colleagues during a series of research projects on modern Tibet history and society that were funded by the National Geographic Society (1980-81), National Endowment for the Humanities (RO-20261-82, RO-20886-85, RO-21860-89, RO-22251-91, RO-22754-94) and during a large Tibetan Oral History Project funded by the Henry Luce Foundation and the National Endowment for the Humanities (RZ-20585-00, RZ-50326-05, RZ-50845-08). Professor Goldstein is the John Reynolds Harkness Professor of Anthropology and Co-Director of the Center for Research on Tibet at Case Western Reserve University, Cleveland, Ohio. He is a member of the National Academy of Sciences.
 
-![alt](./_image/tohap-collage.jpeg "A collage of images showing Professor Goldstein and his students conducting interviews in Tibet.")  
+![alt](image/collage.jpeg "A collage of images showing Professor Goldstein and his students conducting interviews in Tibet.")  
 *A collage of images showing Professor Goldstein and his students conducting interviews in Tibet.*
 
 Knowledge of the social and political history of Tibet during the second half of the Twentieth Century has been limited by the absence of the voices of everyday Tibetans and officials from the traditional Tibetan government. The Tibetan Oral History and Archive Project was undertaken by Professor Goldstein to collect and preserve these voices and with it a record of the diversity of life as it was lived in Tibet in the traditional and socialist eras.
