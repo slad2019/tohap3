@@ -634,7 +634,7 @@
     * [OR_0362_01](OR_0362/OR_0362_01.md)  
 * [Oral history interview of Wang Gui](H_0120/README.md)  
     * [H_0120_01](H_0120/H_0120_01.md)  
-* [Oral history interview of Taring, Tsering Yangdzom [Tib.འཕྲེང་རིང, Tshe ring dbyangs rtsoms] also (Betty Taring)](H_0236/README.md)  
+* [Oral history interview of Taring, Tsering Yangdzom [Tib.འཕྲེང་རིང, ཚེ་རིང་དབྱངས་རྩོམས] also (Betty Taring)](H_0236/README.md)  
     * [H_0236_01](H_0236/H_0236_01.md)  
     * [H_0236_02](H_0236/H_0236_02.md)  
 * [Oral history interview of Driyü, Phüntso Dorje [Tib. འབྲི་ཡུལ, ཕུན་ཚོགས་རྡོ་རྗེ]](H_0431/README.md)  
